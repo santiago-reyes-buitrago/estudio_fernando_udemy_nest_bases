@@ -4,3 +4,6 @@
 [submodule "02-car-dealer-ship"]
 	path = 02-car-dealer-ship
 	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_nest_car_dealer_ship.git
+[submodule "03-pokedex"]
+	path = 03-pokedex
+	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_nest_pokedex.git
