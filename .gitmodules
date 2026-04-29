@@ -7,3 +7,6 @@
 [submodule "03-pokedex"]
 	path = 03-pokedex
 	url = https://github.com/santiago-reyes-buitrago/estudio_fernando_udemy_nest_pokedex.git
+[submodule "04-teslo-shop"]
+	path = 04-teslo-shop
+	url = https://github.com/santiago-reyes-buitrago/04-teslo-shop.git
