@@ -10,3 +10,6 @@
 [submodule "04-teslo-shop"]
 	path = 04-teslo-shop
 	url = https://github.com/santiago-reyes-buitrago/04-teslo-shop.git
+[submodule "05-websocket-client"]
+	path = 05-websocket-client
+	url = https://github.com/santiago-reyes-buitrago/05-ws-client-nest.git
